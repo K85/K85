@@ -4,7 +4,7 @@ Skills:
 - 🌸 Computer Network
 - 🌸 Data Structure
 - 🌸 Full Stack
-- 🌸 Android
+- 🌸 Mobile Terminal: Android, Raspberry Pi
 - ⌛ Reverse Engineering (In the Works...)
 - ⌛ Fundamentals of Compiling (In the Works...)
 - ⌛ The Principle of Database (In the Works...)
