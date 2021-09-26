@@ -18,3 +18,9 @@ Program Languages:
 - 💠 Occasionally used: C#, Python, JavaScript
 - 💠 Infrequently used: Rust, Ruby, Php, Assembly, Lua, Visual Basic
 - ⌛ Did not learn: Scalc, Swift, Lisp, Objective-C, Haskell
+
+Loved Games:
+- ⚔ Minecraft
+- ⚔ Clash of Clans
+- ⚔ StarCraft II
+- ⚔ Onmyoji
