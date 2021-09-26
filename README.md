@@ -1,5 +1,3 @@
-[![K85g's github stats](https://github-readme-stats.vercel.app/api?username=K85)](https://github.com/K85/github-readme-stats)
-
 Skills:
 - 🌸 Introduction to Computer Science
 - 🌸 Computer Composition
@@ -20,8 +18,8 @@ Program Languages:
 - 🌸 C++
 - 🌸 Go
 - 🌸 C#
-- 🌸 Rust
 - 🌸 Python
+- 🌸 Rust
 - 🌸 Ruby
 - 🌸 JavaScript
 - 🌸 Php
