@@ -1,16 +1,28 @@
-### Hi there 👋
+[![K85g's github stats](https://github-readme-stats.vercel.app/api?username=K85)](https://github.com/K85/github-readme-stats)
 
-<!--
-**K85/K85** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Skills:
+- 🌸 Introduction to Computer Science
+- 🌸 Computer Composition
+- 🌸 Computer Network
+- 🌸 Data Structure
+- 🌸 Full Stack
+- 🌸 Android
+- ⌛ Reverse engineering (In the Works...)
+- ⌛ Fundamentals of Compiling (In the Works...)
+- ⌛ The Principle of Database (In the Works...)
+- ⌛ Operating System (In the Works...)
+- ⌛ Mathematical Modeling (In the Works...)
+- ⌛ Linear Algebra (In the Works...)
+- ⌛Probability Theory (In the Works...)
+ 
+Program Languages: 
+- 🌸 Java/Kotlin
+- 🌸 C++
+- 🌸 Go
+- 🌸 C#
+- 🌸 Rust
+- 🌸 Python
+- 🌸 Ruby
+- 🌸 JavaScript
+- 🌸 Php
+- 🌸 Assembly
