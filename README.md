@@ -17,7 +17,7 @@ Program Languages:
 - 💠 The most used: Java, Kotlin, C++, Go
 - 💠 Occasionally used: C#, Python, JavaScript
 - 💠 Infrequently used: Rust, Ruby, Php, Assembly, Lua, Visual Basic
-- ⌛ Did not learn: Scalc, Swift, Lisp, Objective-C, Haskell
+- ⌛ Did not learn: Scalc, Swift, Lisp, Objective-C, Haskell, Verilog
 
 Loved Games:
 - ⚔ Minecraft
