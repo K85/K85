@@ -20,7 +20,7 @@ Program Languages:
 - ⌛ Did not learn: Scalc, Swift, Lisp, Objective-C, Haskell, Verilog
 
 Loved Games:
-- ⚔ Minecraft
-- ⚔ Clash of Clans
-- ⚔ StarCraft II
-- ⚔ Onmyoji
+- ⚔ Minecraft (Tech: Bukkit and Forge)
+- ⚔ Clash of Clans (Farm)
+- ⚔ StarCraft II (Zerg)
+- ⚔ Onmyoji (Farm)
