@@ -6,8 +6,8 @@ Skills:
 - 🌸 Full Stack
 - 🌸 Mobile Terminal: Android, Raspberry Pi
 - ⌛ Reverse Engineering (In the Works...)
-- ⌛ Fundamentals of Compiling (In the Works...)
-- ⌛ The Principle of Database (In the Works...)
+- ⌛ Compiler (In the Works...)
+- ⌛ Database (In the Works...)
 - ⌛ Operating System (In the Works...)
 - ⌛ Mathematical Modeling (In the Works...)
 - ⌛ Linear Algebra (In the Works...)
