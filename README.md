@@ -5,6 +5,8 @@ Skills:
 - 🌸 Data Structure
 - 🌸 Full Stack
 - 🌸 Mobile Terminal: Android, Raspberry Pi
+- 🌸 Advanced Mathematics
+- 🌸 Discrete Mathematics
 - ⌛ Reverse Engineering (In the Works...)
 - ⌛ Compiler (In the Works...)
 - ⌛ Database (In the Works...)
@@ -12,6 +14,9 @@ Skills:
 - ⌛ Mathematical Modeling (In the Works...)
 - ⌛ Linear Algebra (In the Works...)
 - ⌛ Probability Theory (In the Works...)
+- ⌛ Cryptology (In the Works...)
+- ⌛ Computer Graphics (In the Works...)
+- ⌛ Computer Vision (In the Works...)
  
 Program Languages: 
 - 💠 The most used: Java, Kotlin, C++, Go
