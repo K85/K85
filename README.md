@@ -1,22 +1,7 @@
-Skills:
-[ Introduction to Computer Science, Computer Organization ]
-- 🌸 Computer Network
-- 🌸 Data Structure
-- 🌸 Full Stack
-- 🌸 Mobile Terminal: Android, Raspberry Pi
-- 🌸 Advanced Mathematics
-- 🌸 Discrete Mathematics
-- ⌛ Reverse Engineering
-- ⌛ Compiler
-- ⌛ Database
-- ⌛ Operating System
-- ⌛ Mathematical Modeling
-- ⌛ Linear Algebra
-- ⌛ Probability
-- ⌛ Cryptology
-- ⌛ Computer Graphics
-- ⌛ Computer Vision
- 
+Skills: 
+- 💠 Learned: [Introduction to Computer Science, Computer Organization, Computer Network, Data Structure, Full Stack, Advanced Mathematics, Discrete Mathematics, Database, Operating System, Linear Algebra]
+- ⌛ Plans: [Reverse Engineering, Compiler, Mathematical Modeling, Probability, Cryptology, Computer Graphics, Computer Vision]
+
 Program Languages: 
 - 💠 The most used: Java, Kotlin, C++, Go
 - 💠 Occasionally used: C#, Python, JavaScript
