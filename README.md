@@ -1,6 +1,5 @@
 Skills:
-- 🌸 Introduction to Computer Science
-- 🌸 Computer Organization
+[ Introduction to Computer Science, Computer Organization ]
 - 🌸 Computer Network
 - 🌸 Data Structure
 - 🌸 Full Stack
