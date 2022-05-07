@@ -1,6 +1,6 @@
 Skills: 
 - 💠 Learned: [Introduction to Computer Science, Computer Organization, Computer Network, Data Structure, Full Stack, Advanced Mathematics, Discrete Mathematics, Database, Operating System, Linear Algebra]
-- ⌛ Plans: [Reverse Engineering, Compiler, Mathematical Modeling, Probability, Cryptology, Computer Graphics, Computer Vision]
+- ⌛ Plans: [Reverse Engineering, Compiler, Mathematical Modeling, Probability, Cryptology, Computer Graphics, Computer Vision, Mathematical Analysis]
 
 Program Languages: 
 - 💠 The most used: Java, Kotlin, C++, Go
