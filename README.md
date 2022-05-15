@@ -3,13 +3,12 @@ Skills:
 - ⌛ Plans: [Reverse Engineering, Compiler, Mathematical Modeling, Probability, Cryptology, Computer Graphics, Computer Vision, Mathematical Analysis]
 
 Program Languages: 
-- 💠 The most used: Java, Kotlin, C++, Go
-- 💠 Occasionally used: C#, Python, JavaScript
-- 💠 Infrequently used: Rust, Ruby, Php, Assembly, Lua, Visual Basic
-- ⌛ Did not learn: Scala, Swift, Lisp, Objective-C, Haskell, Verilog
+- 💠 The most used: [Java, Kotlin, C++, Go]
+- 💠 Occasionally used: [C#, Python, JavaScript]
+- 💠 Infrequently used: [Rust, Ruby, Php, Assembly, Lua, Visual Basic]
+- ⌛ Did not learn: [Scala, Swift, Lisp, Objective-C, Haskell, Verilog]
 
 Loved Games:
-- ⚔ Minecraft (Tech: Bukkit and Forge)
-- ⚔ Clash of Clans (Farm)
+- ⚔ Minecraft (Bukkit and Forge)
 - ⚔ StarCraft II (Zerg)
 - ⚔ Onmyoji (Farm)
