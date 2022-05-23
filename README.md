@@ -6,7 +6,7 @@ Program Languages:
 - 💠 The most used: [Java, Kotlin, C++, Go]
 - 💠 Occasionally used: [C#, Python, JavaScript]
 - 💠 Infrequently used: [Rust, Ruby, Php, Assembly, Lua, Visual Basic]
-- ⌛ Plans: [Scala, Swift, Lisp, Objective-C, Haskell, Verilog]
+- ⌛ Plans: [Scala, Swift, Lisp, Objective-C, Haskell, Verilog, Jupyter Notebook]
 
 Loved Games:
 - ⚔ Minecraft (Bukkit and Forge)
