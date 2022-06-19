@@ -9,6 +9,7 @@ Program Languages:
 - ⌛ Plans: [Scala, Swift, Lisp, Objective-C, Haskell, Verilog, Jupyter Notebook]
 
 Loved Games:
-- ⚔ Minecraft (Bukkit and Forge)
-- ⚔ StarCraft II (Zerg)
-- ⚔ Onmyoji (Farm)
+- 💠 Minecraft (Bukkit and Forge)
+- 💠 Clash of Clans (Farm)
+- 💠 StarCraft II (Zerg)
+- 💠 Onmyoji (Farm)
