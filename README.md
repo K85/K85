@@ -10,6 +10,3 @@ Program Languages:
 
 Loved Games:
 - 💠 Minecraft (Bukkit and Forge)
-- 💠 Clash of Clans (Farm)
-- 💠 StarCraft II (Zerg)
-- 💠 Onmyoji (Farm)
